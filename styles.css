@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.resultado, .seleccion {
+    border: 2px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+}
+
+#imagen {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+#cocinar {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

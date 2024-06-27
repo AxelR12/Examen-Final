@@ -1,0 +1,26 @@
+{
+    "arroz con pollo": {
+        "ingredientes": ["Arroz", "Pollo", "Pimiento", "Cebolla"],
+        "imagen": "img/arroz_con_pollo.jpg"
+    },
+    "ensalada de vegetales": {
+        "ingredientes": ["Lechuga", "Tomate", "Pepino", "Zanahoria"],
+        "imagen": "img/ensalada_de_vegetales.jpg"
+    },
+    "sopa de tomate": {
+        "ingredientes": ["Tomate", "Cebolla", "Ajo", "Caldo de pollo"],
+        "imagen": "img/sopa_de_tomate.jpg"
+    },
+    "pasta al pesto": {
+        "ingredientes": ["Pasta", "Albahaca", "Ajo", "Aceite de oliva"],
+        "imagen": "img/pasta_al_pesto.jpg"
+    },
+    "taco de carne": {
+        "ingredientes": ["Tortilla", "Carne", "Cebolla", "Cilantro"],
+        "imagen": "img/taco_de_carne.jpg"
+    },
+    "pizza margherita": {
+        "ingredientes": ["Masa de pizza", "Tomate", "Queso mozzarella", "Albahaca"],
+        "imagen": "img/pizza_margherita.jpg"
+    }
+}
